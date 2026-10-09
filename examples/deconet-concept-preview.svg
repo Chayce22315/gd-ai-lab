@@ -1,0 +1,83 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="420" viewBox="0 0 1200 420" role="img" aria-labelledby="title desc">
+<title id="title">moonlit ruins | decoNET concept preview</title>
+<desc id="desc">mysterious. Abstract SVG preview generated from a semantic decoration plan; not a Geometry Dash level export.</desc>
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#09090B"/><stop offset="1" stop-color="#030611"/></linearGradient>
+<linearGradient id="beam" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#A3E635" stop-opacity=".52"/><stop offset="1" stop-color="#A3E635" stop-opacity="0"/></linearGradient>
+<linearGradient id="floor" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#27272A" stop-opacity=".06"/><stop offset=".5" stop-color="#A3E635" stop-opacity=".28"/><stop offset="1" stop-color="#F0FD4A" stop-opacity=".08"/></linearGradient>
+<filter id="glow" x="-80%" y="-80%" width="260%" height="260%"><feGaussianBlur stdDeviation="5" result="blur"/><feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+<pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M 40 0 L 0 0 0 40" fill="none" stroke="#A3E635" stroke-opacity=".10" stroke-width="1"/></pattern>
+</defs>
+<rect width="100%" height="100%" fill="url(#bg)"/>
+<rect width="100%" height="100%" fill="url(#grid)"/>
+<text x="28" y="32" fill="#F8FAFC" font-family="Segoe UI,Arial,sans-serif" font-size="18" font-weight="700" letter-spacing="2">MOONLIT RUINS</text>
+<text x="29" y="53" fill="#A3E635" font-family="Segoe UI,Arial,sans-serif" font-size="10" letter-spacing="3">MYSTERIOUS</text>
+<rect x="24.00" y="70" width="265.85" height="320.00" fill="#27272A" fill-opacity=".035"/>
+<line x1="24.00" y1="76" x2="24.00" y2="336.00" stroke="#27272A" stroke-opacity=".36" stroke-width="1"/>
+<text x="32.00" y="76" fill="#27272A" fill-opacity=".92" font-family="Segoe UI,Arial,sans-serif" font-size="10" letter-spacing="2">INTRO</text>
+<path d="M 104.92 336.00 L 104.92 253.00 L 156.92 236.00 L 208.92 253.00 L 208.92 336.00" fill="none" stroke="#27272A" stroke-opacity="0.72" stroke-width="2" filter="url(#glow)"/>
+<path d="M 114.92 336.00 L 114.92 256.00 L 156.92 239.00 L 198.92 256.00 L 198.92 336.00" fill="none" stroke="#27272A" stroke-opacity="0.38" stroke-width="2" filter="url(#glow)"/>
+<path d="M 124.92 336.00 L 124.92 259.00 L 156.92 242.00 L 188.92 259.00 L 188.92 336.00" fill="none" stroke="#27272A" stroke-opacity="0.19" stroke-width="2" filter="url(#glow)"/>
+<path d="M 48.23 326.00 L 57.23 310.00 L 66.23 326.00" fill="none" stroke="#A3E635" stroke-opacity=".48" stroke-width="1.4"/>
+<path d="M 114.69 313.00 L 123.69 297.00 L 132.69 313.00" fill="none" stroke="#A3E635" stroke-opacity=".48" stroke-width="1.4"/>
+<path d="M 181.15 300.00 L 190.15 284.00 L 199.15 300.00" fill="none" stroke="#A3E635" stroke-opacity=".48" stroke-width="1.4"/>
+<path d="M 247.62 287.00 L 256.62 271.00 L 265.62 287.00" fill="none" stroke="#A3E635" stroke-opacity=".48" stroke-width="1.4"/>
+<rect x="155.92" y="88" width="2" height="234.00" fill="url(#beam)" opacity=".56"/>
+<text x="156.92" y="358.00" text-anchor="middle" fill="#E2E8F0" fill-opacity=".52" font-family="Segoe UI,Arial,sans-serif" font-size="8">cool haze</text>
+<title>layers split</title>
+<rect x="289.85" y="70" width="310.15" height="320.00" fill="#A3E635" fill-opacity=".035"/>
+<line x1="289.85" y1="76" x2="289.85" y2="336.00" stroke="#A3E635" stroke-opacity=".36" stroke-width="1"/>
+<text x="297.85" y="76" fill="#A3E635" fill-opacity=".92" font-family="Segoe UI,Arial,sans-serif" font-size="10" letter-spacing="2">BUILD</text>
+<path d="M 392.92 336.00 L 392.92 253.00 L 444.92 236.00 L 496.92 253.00 L 496.92 336.00" fill="none" stroke="#A3E635" stroke-opacity="0.72" stroke-width="2" filter="url(#glow)"/>
+<path d="M 402.92 336.00 L 402.92 256.00 L 444.92 239.00 L 486.92 256.00 L 486.92 336.00" fill="none" stroke="#A3E635" stroke-opacity="0.38" stroke-width="2" filter="url(#glow)"/>
+<path d="M 412.92 336.00 L 412.92 259.00 L 444.92 242.00 L 476.92 259.00 L 476.92 336.00" fill="none" stroke="#A3E635" stroke-opacity="0.19" stroke-width="2" filter="url(#glow)"/>
+<path d="M 319.62 319.00 L 328.62 303.00 L 337.62 319.00" fill="none" stroke="#A3E635" stroke-opacity=".48" stroke-width="1.4"/>
+<path d="M 397.15 306.00 L 406.15 290.00 L 415.15 306.00" fill="none" stroke="#A3E635" stroke-opacity=".48" stroke-width="1.4"/>
+<path d="M 474.69 293.00 L 483.69 277.00 L 492.69 293.00" fill="none" stroke="#A3E635" stroke-opacity=".48" stroke-width="1.4"/>
+<path d="M 552.23 280.00 L 561.23 264.00 L 570.23 280.00" fill="none" stroke="#A3E635" stroke-opacity=".48" stroke-width="1.4"/>
+<rect x="443.92" y="88" width="2" height="234.00" fill="url(#beam)" opacity=".56"/>
+<text x="444.92" y="358.00" text-anchor="middle" fill="#E2E8F0" fill-opacity=".52" font-family="Segoe UI,Arial,sans-serif" font-size="8">soft cones</text>
+<path d="M 390.30 333.00 L 395.30 323.00 L 400.30 333.00" fill="none" stroke="#FB7185" stroke-opacity=".8" stroke-width="1.8"/>
+<path d="M 439.92 333.00 L 444.92 323.00 L 449.92 333.00" fill="none" stroke="#FB7185" stroke-opacity=".8" stroke-width="1.8"/>
+<path d="M 489.55 333.00 L 494.55 323.00 L 499.55 333.00" fill="none" stroke="#FB7185" stroke-opacity=".8" stroke-width="1.8"/>
+<title>negative space</title>
+<rect x="600.00" y="70" width="354.46" height="320.00" fill="#F0FD4A" fill-opacity=".035"/>
+<line x1="600.00" y1="76" x2="600.00" y2="336.00" stroke="#F0FD4A" stroke-opacity=".36" stroke-width="1"/>
+<text x="608.00" y="76" fill="#F0FD4A" fill-opacity=".92" font-family="Segoe UI,Arial,sans-serif" font-size="10" letter-spacing="2">DROP</text>
+<path d="M 725.23 336.00 L 725.23 253.00 L 777.23 236.00 L 829.23 253.00 L 829.23 336.00" fill="none" stroke="#F0FD4A" stroke-opacity="0.72" stroke-width="2" filter="url(#glow)"/>
+<path d="M 735.23 336.00 L 735.23 256.00 L 777.23 239.00 L 819.23 256.00 L 819.23 336.00" fill="none" stroke="#F0FD4A" stroke-opacity="0.38" stroke-width="2" filter="url(#glow)"/>
+<path d="M 745.23 336.00 L 745.23 259.00 L 777.23 242.00 L 809.23 259.00 L 809.23 336.00" fill="none" stroke="#F0FD4A" stroke-opacity="0.19" stroke-width="2" filter="url(#glow)"/>
+<path d="M 635.31 312.00 L 644.31 296.00 L 653.31 312.00" fill="none" stroke="#A3E635" stroke-opacity=".48" stroke-width="1.4"/>
+<path d="M 723.92 299.00 L 732.92 283.00 L 741.92 299.00" fill="none" stroke="#A3E635" stroke-opacity=".48" stroke-width="1.4"/>
+<path d="M 812.54 286.00 L 821.54 270.00 L 830.54 286.00" fill="none" stroke="#A3E635" stroke-opacity=".48" stroke-width="1.4"/>
+<path d="M 901.15 273.00 L 910.15 257.00 L 919.15 273.00" fill="none" stroke="#A3E635" stroke-opacity=".48" stroke-width="1.4"/>
+<rect x="776.23" y="88" width="2" height="234.00" fill="url(#beam)" opacity=".56"/>
+<text x="777.23" y="358.00" text-anchor="middle" fill="#E2E8F0" fill-opacity=".52" font-family="Segoe UI,Arial,sans-serif" font-size="8">magenta beams</text>
+<title>outline carries</title>
+<rect x="954.46" y="70" width="221.54" height="320.00" fill="#27272A" fill-opacity=".035"/>
+<line x1="954.46" y1="76" x2="954.46" y2="336.00" stroke="#27272A" stroke-opacity=".36" stroke-width="1"/>
+<text x="962.46" y="76" fill="#27272A" fill-opacity=".92" font-family="Segoe UI,Arial,sans-serif" font-size="10" letter-spacing="2">OUTRO</text>
+<path d="M 1013.23 336.00 L 1013.23 253.00 L 1065.23 236.00 L 1117.23 253.00 L 1117.23 336.00" fill="none" stroke="#27272A" stroke-opacity="0.72" stroke-width="2" filter="url(#glow)"/>
+<path d="M 1023.23 336.00 L 1023.23 256.00 L 1065.23 239.00 L 1107.23 256.00 L 1107.23 336.00" fill="none" stroke="#27272A" stroke-opacity="0.38" stroke-width="2" filter="url(#glow)"/>
+<path d="M 1033.23 336.00 L 1033.23 259.00 L 1065.23 242.00 L 1097.23 259.00 L 1097.23 336.00" fill="none" stroke="#27272A" stroke-opacity="0.19" stroke-width="2" filter="url(#glow)"/>
+<polygon points="990.15,297.00 986.15,303.93 978.15,303.93 974.15,297.00 978.15,290.07 986.15,290.07" fill="none" stroke="#A3E635" stroke-opacity=".55" stroke-width="1.3"/>
+<polygon points="1049.54,284.00 1043.54,294.39 1031.54,294.39 1025.54,284.00 1031.54,273.61 1043.54,273.61" fill="none" stroke="#A3E635" stroke-opacity=".55" stroke-width="1.3"/>
+<polygon points="1100.92,271.00 1096.92,277.93 1088.92,277.93 1084.92,271.00 1088.92,264.07 1096.92,264.07" fill="none" stroke="#A3E635" stroke-opacity=".55" stroke-width="1.3"/>
+<polygon points="1160.31,258.00 1154.31,268.39 1142.31,268.39 1136.31,258.00 1142.31,247.61 1154.31,247.61" fill="none" stroke="#A3E635" stroke-opacity=".55" stroke-width="1.3"/>
+<rect x="1064.23" y="88" width="2" height="234.00" fill="url(#beam)" opacity=".56"/>
+<text x="1065.23" y="358.00" text-anchor="middle" fill="#E2E8F0" fill-opacity=".52" font-family="Segoe UI,Arial,sans-serif" font-size="8">cyan rim</text>
+<path d="M 1024.78 333.00 L 1029.78 323.00 L 1034.78 333.00" fill="none" stroke="#FB7185" stroke-opacity=".8" stroke-width="1.8"/>
+<path d="M 1060.23 333.00 L 1065.23 323.00 L 1070.23 333.00" fill="none" stroke="#FB7185" stroke-opacity=".8" stroke-width="1.8"/>
+<path d="M 1095.68 333.00 L 1100.68 323.00 L 1105.68 333.00" fill="none" stroke="#FB7185" stroke-opacity=".8" stroke-width="1.8"/>
+<title>outline carries</title>
+<g filter="url(#glow)"><circle cx="183.51" cy="266.70" r="8" fill="#F0FD4A" fill-opacity=".12"/><path d="M 171.51 266.70 L 183.51 254.70 L 195.51 266.70 L 183.51 278.70 Z" fill="none" stroke="#F0FD4A" stroke-width="2"/></g>
+<title>foreground frame</title>
+<g filter="url(#glow)"><circle cx="595.57" cy="216.30" r="8" fill="#27272A" fill-opacity=".12"/><path d="M 583.57 216.30 L 595.57 204.30 L 607.57 216.30 L 595.57 228.30 Z" fill="none" stroke="#27272A" stroke-width="2"/></g>
+<title>glow outline</title>
+<g filter="url(#glow)"><circle cx="927.88" cy="184.80" r="8" fill="#F0FD4A" fill-opacity=".12"/><path d="M 915.88 184.80 L 927.88 172.80 L 939.88 184.80 L 927.88 196.80 Z" fill="none" stroke="#F0FD4A" stroke-width="2"/></g>
+<title>hero centerpiece</title>
+<rect x="0" y="336.00" width="1200" height="84.00" fill="url(#floor)"/>
+<path d="M 0 336.00 L 1200 336.00" stroke="#A3E635" stroke-opacity=".82" stroke-width="2" filter="url(#glow)"/>
+<path d="M 0 343.00 L 1200 343.00" stroke="#27272A" stroke-opacity=".28" stroke-width="1"/>
+<text x="1180" y="406" text-anchor="end" fill="#94A3B8" font-family="Segoe UI,Arial,sans-serif" font-size="9" letter-spacing="1.5">SVG CONCEPT PREVIEW · NOT A .GMD EXPORT</text>
+</svg>

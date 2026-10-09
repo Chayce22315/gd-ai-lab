@@ -1,0 +1,99 @@
+{
+  "schema_version": "decoNET-plan-0.1",
+  "theme": "moonlit ruins",
+  "mood": "mysterious",
+  "intensity": "high contrast",
+  "palette": {
+    "name": "signalnoise",
+    "bg": "#09090B",
+    "primary": "#A3E635",
+    "secondary": "#27272A",
+    "accent": "#F0FD4A",
+    "hazard": "#FB7185"
+  },
+  "global_motif": "angular vines",
+  "depth_layers": [
+    "distant silhouettes",
+    "midground structures",
+    "foreground frames"
+  ],
+  "sections": [
+    {
+      "n": "intro",
+      "x": [
+        0,
+        120
+      ],
+      "m": "floating shards",
+      "l": "cool haze",
+      "t": "layers split"
+    },
+    {
+      "n": "build",
+      "x": [
+        120,
+        260
+      ],
+      "m": "mechanical petals",
+      "l": "soft cones",
+      "t": "negative space"
+    },
+    {
+      "n": "drop",
+      "x": [
+        260,
+        420
+      ],
+      "m": "floating shards",
+      "l": "magenta beams",
+      "t": "outline carries"
+    },
+    {
+      "n": "outro",
+      "x": [
+        420,
+        520
+      ],
+      "m": "hexagonal frames",
+      "l": "cyan rim",
+      "t": "outline carries"
+    }
+  ],
+  "decorative_objects": [
+    {
+      "role": "foreground frame",
+      "xy": [
+        72,
+        55
+      ],
+      "layer": "midground",
+      "color": "accent",
+      "lookup_required": true
+    },
+    {
+      "role": "glow outline",
+      "xy": [
+        258,
+        95
+      ],
+      "layer": "background",
+      "color": "secondary",
+      "lookup_required": true
+    },
+    {
+      "role": "hero centerpiece",
+      "xy": [
+        408,
+        120
+      ],
+      "layer": "background",
+      "color": "accent",
+      "lookup_required": true
+    }
+  ],
+  "readability_rules": [
+    "high hazard contrast",
+    "never hide route edges",
+    "density peaks at drop"
+  ]
+}

@@ -1,0 +1,33 @@
+[build-system]
+requires = ["setuptools>=68", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "gd-ai-lab"
+version = "0.1.0"
+description = "From-scratch specialist neural networks for Geometry Dash design tasks"
+readme = "README.md"
+requires-python = ">=3.10"
+license = {file = "LICENSE"}
+authors = [{name = "GD AI Lab contributors"}]
+dependencies = ["torch>=2.2"]
+
+[project.optional-dependencies]
+test = ["pytest>=8.0"]
+
+[project.scripts]
+gdai-build-data = "gdai.dataset_builder:main"
+gdai-train = "gdai.train:main"
+gdai-generate = "gdai.generate:main"
+gdai-evaluate = "gdai.evaluate:main"
+gdai-render-svg = "gdai.render_svg:main"
+
+[tool.setuptools]
+package-dir = {"" = "src"}
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.pytest.ini_options]
+pythonpath = ["src"]
+testpaths = ["tests"]
